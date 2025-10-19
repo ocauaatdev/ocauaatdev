@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 Atualmente estou trabalhando no projeto [PROGYM](https://github.com/ocauaatdev/progym)<br><br>- ☕ Estou estudando **Java e Spring Boot**<br><br>- 🌱 Trabalhei no meu projeto TCC [EcoVenda](https://eco-venda.onrender.com/home-page)<br><br>- 📫 Como me contatar **cauacontatopro@gmail.com**</p>
+<p align="left">- <br>- ☕ Estou estudando **Java e Spring Boot**<br><br>- 🌱 Trabalhei no meu projeto TCC [EcoVenda](https://eco-venda.onrender.com/home-page)<br><br>- 📫 Como me contatar **cauacontatopro@gmail.com**</p>
 
 ###
 
