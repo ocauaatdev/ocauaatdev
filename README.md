@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📌Procuro minha primeira oportunidade como desenvolvedor<br>📌Conclui meu ensino médio técnico no curso "Informática para internet", focado no desenvolvimento web<br>📌Pretendo iniciar a faculdade de Analise e Desenvolvimento de Sistemas em ago/2025<br>📌Estou sempre procurando me aprimorar e desenvolver conhecimentos em novas tecnologias com foco na resolução de problemas e necessidades.</p>
+<p align="left">📌Procuro minha primeira oportunidade como desenvolvedor<br>📌Cursando Análise e Desenvolvimento de Sistemas na FIAP - 2º Semestre<br>📌Conclui meu ensino médio técnico no curso "Informática para internet", focado no desenvolvimento web<br>📌Estou sempre procurando me aprimorar e desenvolver conhecimentos em novas tecnologias com foco na resolução de problemas e necessidades.</p>
 
 ###
 
