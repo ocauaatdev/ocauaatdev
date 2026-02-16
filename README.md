@@ -1,34 +1,58 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/caua-araujo-teixeira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="center">Olá, me chamo Cauã A. Teixeira 👋</h3>
 
 ###
 
-<h1 align="center">Olá, me chamo Cauã A. Teixeira 👋</h1>
+<h1 align="left">👩‍💻  Sobre mim</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<p align="left">💻 Desenvolvedor Full Stack em formação  <br>🎓 Análise e Desenvolvimento de Sistemas - FIAP  <br>📍 Itapevi - SP</p>
 
 ###
 
-<p align="left">📌Procuro minha primeira oportunidade como desenvolvedor<br>📌Cursando Análise e Desenvolvimento de Sistemas na FIAP - 2º Semestre<br>📌Conclui meu ensino médio técnico no curso "Informática para internet", focado no desenvolvimento web<br>📌Estou sempre procurando me aprimorar e desenvolver conhecimentos em novas tecnologias com foco na resolução de problemas e necessidades.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e formado como Técnico em Desenvolvimento Web.<br><br>Tenho experiência no desenvolvimento de aplicações completas, desde a modelagem do banco de dados até a construção de APIs e integração com o front-end.<br><br>Meu foco principal está em Backend com Java e Spring Boot, mas também atuo com Node.js, bancos relacionais e desenvolvimento de interfaces web responsivas.<br><br>Busco minha primeira oportunidade profissional para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.<br><br>Me considero uma pessoa colaborativa, proativa, com muita vontade de adquirir novos conhecimentos e sempre buscando melhorar.</p>
 
 ###
 
-<p align="left">- <br>- ☕ Estou estudando **Java e Spring Boot**<br><br>- 🌱 Trabalhei no meu projeto TCC [EcoVenda](https://eco-venda.onrender.com/home-page)<br><br>- 📫 Como me contatar **cauacontatopro@gmail.com**</p>
+<h1 align="left">Competências Técnicas</h1>
 
 ###
 
-<h3 align="left">🛠 Linguagens e tecnologias</h3>
+<h3 align="left">🔹 Back-end:</h3>
+
+###
+
+<p align="left">Java 17<br> Spring Boot<br> Spring Data JPA<br> Hibernate<br> Node.js<br> Express.js<br> Criação de APIs RESTful (CRUD)<br> Arquitetura em camadas (Controller, Service, Repository)<br> Validação de dados e tratamento de exceções</p>
+
+###
+
+<h3 align="left">🔹 Front-end:</h3>
+
+###
+
+<p align="left">HTML5<br>CSS3<br>JavaScript<br>Bootstrap<br>EJS (Server-Side Rendering)<br>Integração com APIs REST</p>
+
+###
+
+<h3 align="left">🔹 Banco de dados</h3>
+
+###
+
+<p align="left">MySQL<br> PostgreSQL<br> Modelagem Relacional<br> Consultas SQL<br> Persistência com JPA</p>
+
+###
+
+<h3 align="left">🔹 Dev Tools & Cloud</h3>
+
+###
+
+<p align="left">Git & GitHub<br>Docker (noções container e images)<br> Postman<br> Figma (noções de UX/UI)<br> Oracle Data Modeler<br> Deploy de aplicações no Render<br>- Banco de dados hospedado na Clever Cloud</p>
 
 ###
 
@@ -48,18 +72,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   Meu status :</h3>
+<h1 align="left">🔥   Meu status :</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocauaatdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ocauaatdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauaatdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h1 align="left">📫 Contato</h1>
+
+###
+
+<p align="left">📧 Email: cauacontatopro@gmail.com  <br><br>💼 LinkedIn: linkedin.com/in/caua-araujo-teixeira  <br><br>💻 GitHub: github.com/ocauaatdev</p>
+
+###
+
+<div align="left">
+  <a href="edin.com/in/caua-araujo-teixeira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cauacontatopro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">Sempre aberto a networking, colaboração e novos desafios.</p>
 
 ###
