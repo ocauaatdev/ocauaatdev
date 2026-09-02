@@ -1,114 +1,167 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Cau%C3%A3%20Araujo%20Teixeira&fontSize=46&fontColor=39FF14&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Full-Stack%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlign=50&descAlignY=60&descColor=FFFFFF&color=0:000000,50:0D1F0D,100:0D1117" width="100%"/>
+
+<a href="https://linkedin.com/in/caua-araujo-teixeira">
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117" />
+</a>
+<a href="mailto:cauacontatopro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117" />
+</a>
+<a href="https://github.com/ocauaatdev">
+  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Graduando+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+FIAP;Desenvolvedor+Backend;Sempre+em+busca+do+aprendizado+cont%C3%ADnuo&font=Fira+Code&center=true&width=700&height=45&duration=3500&pause=800&color=39FF14&vCenter=true&size=20" />
+
 </div>
 
-###
+<br/>
 
-<h3 align="center">Olá, me chamo Cauã A. Teixeira 👋</h3>
+## 🧑‍💻 Sobre mim
 
-###
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP** (conclusão prevista em jul/2027) e Técnico em Desenvolvimento Web formado pela FIEB.
 
-<h1 align="left">👩‍💻  Sobre mim</h1>
+- 🔭 Meu foco principal é **Backend com Java e Spring Boot**, com experiência em modelagem de dados, arquitetura em camadas (MVC) e criação de APIs RESTful.
+- 🌱 Estou ampliando minha atuação para **Full-Stack**, estudando **React**, **TypeScript** e aprofundando **Java avançado**.
+- 🗄️ Trabalho com bancos relacionais (**MySQL**, **PostgreSQL**, **Oracle SQL**) e boas práticas como validação de dados e tratamento de exceções.
+- 🤝 Perfil analítico, comunicativo, organizado e proativo — sempre buscando evoluir tecnicamente.
+- 🎯 Buscando minha **primeira oportunidade profissional** para aplicar meus conhecimentos em projetos reais.
+- 📍 Barueri, São Paulo — Brasil
 
-###
+<br/>
 
-<p align="left">💻 Desenvolvedor Full Stack em formação  <br>🎓 Análise e Desenvolvimento de Sistemas - FIAP  <br>📍 Itapevi - SP</p>
+## 🛠️ Competências Técnicas
 
-###
+<div align="center">
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e formado como Técnico em Desenvolvimento Web.<br><br>Tenho experiência no desenvolvimento de aplicações completas, desde a modelagem do banco de dados até a construção de APIs e integração com o front-end.<br><br>Meu foco principal está em Backend com Java e Spring Boot, mas também atuo com Node.js, bancos relacionais e desenvolvimento de interfaces web responsivas.<br><br>Busco minha primeira oportunidade profissional para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.<br><br>Me considero uma pessoa colaborativa, proativa, com muita vontade de adquirir novos conhecimentos e sempre buscando melhorar.</p>
+**Back-End**
 
-###
+<img src="https://img.shields.io/badge/Java_17-39FF14?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring_Boot-39FF14?style=for-the-badge&logo=springboot&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-39FF14?style=for-the-badge&logo=spring&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hibernate-39FF14?style=for-the-badge&logo=hibernate&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=nodedotjs&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Express.js-39FF14?style=for-the-badge&logo=express&logoColor=000000&labelColor=0D1117" />
 
-<h1 align="left">Competências Técnicas</h1>
+**Front-End**
 
-###
+<img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TypeScript-39FF14?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HTML5-39FF14?style=for-the-badge&logo=html5&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bootstrap-39FF14?style=for-the-badge&logo=bootstrap&logoColor=000000&labelColor=0D1117" />
 
-<h3 align="left">🔹 Back-end:</h3>
+**Banco de Dados**
 
-###
+<img src="https://img.shields.io/badge/MySQL-39FF14?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Oracle_SQL-39FF14?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=0D1117" />
 
-<p align="left">Java 17<br> Spring Boot<br> Spring Data JPA<br> Hibernate<br> Node.js<br> Express.js<br> Criação de APIs RESTful (CRUD)<br> Arquitetura em camadas (Controller, Service, Repository)<br> Validação de dados e tratamento de exceções</p>
+**Ferramentas & Metodologias**
 
-###
+<img src="https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Postman-39FF14?style=for-the-badge&logo=postman&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Figma-39FF14?style=for-the-badge&logo=figma&logoColor=000000&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Scrum_%26_Kanban-39FF14?style=for-the-badge&logo=trello&logoColor=000000&labelColor=0D1117" />
 
-<h3 align="left">🔹 Front-end:</h3>
-
-###
-
-<p align="left">HTML5<br>CSS3<br>JavaScript<br>Bootstrap<br>EJS (Server-Side Rendering)<br>Integração com APIs REST</p>
-
-###
-
-<h3 align="left">🔹 Banco de dados</h3>
-
-###
-
-<p align="left">MySQL<br> PostgreSQL<br> Modelagem Relacional<br> Consultas SQL<br> Persistência com JPA</p>
-
-###
-
-<h3 align="left">🔹 Dev Tools & Cloud</h3>
-
-###
-
-<p align="left">Git & GitHub<br>Docker (noções container e images)<br> Postman<br> Figma (noções de UX/UI)<br> Oracle Data Modeler<br> Deploy de aplicações no Render<br>- Banco de dados hospedado na Clever Cloud</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+<br/>
 
-<h1 align="left">🔥   Meu status :</h1>
+## 🚀 Projetos em Destaque
 
-###
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauaatdev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+### 💬 ContaComigo
+**Projeto pessoal — 2025**
+
+API para plataforma de **gestão financeira em formato de chat com IA**, desenvolvida em **Java + Spring Boot**.
+
+- Arquitetura RESTful organizada em camadas (Maven)
+- Integração de IA para interações via chat sobre finanças pessoais
+- Foco em boas práticas de organização de projeto e persistência de dados
+
+<a href="https://github.com/ocauaatdev/contacomigo">
+<img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 EcoVenda
+**Projeto acadêmico (TCC) — 2024**
+
+Aplicação web de e-commerce com **Node.js + Express + MySQL**, incluindo CRUD completo de usuários e produtos.
+
+- Criação e consumo de rotas RESTful
+- Backend organizado com **controllers**
+- Front-end integrado via **EJS** (server-side rendering)
+- Participação ativa em UX/UI e entrega final
+
+<a href="https://github.com/ocauaatdev/eco-venda">
+<img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Formação & Certificações
+
+- 🏫 **FIAP** — Análise e Desenvolvimento de Sistemas *(conclusão prevista: jul/2027)*
+- 🏫 **FIEB** — Técnico em Informática para Internet (Desenvolvimento Web) *(dez/2024)*
+- 📜 Certificado de Qualificação Profissional em Análise de Sistemas e Prototipação Web — **FIAP** (2025)
+- 📜 Java: Aplicando orientação a objetos — **Alura** (2025)
+- 📜 Java: Trabalhando com lambdas, streams e Spring Framework — **Alura** (2025)
+
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ocauaatdev&show_icons=true&hide_title=true&count_private=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=39FF14" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocauaatdev&layout=compact&hide_title=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&border_color=39FF14" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ocauaatdev&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=39FF14" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauaatdev&radius=8&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="90%" />
+
 </div>
 
-###
+<br/>
 
-<h1 align="left">📫 Contato</h1>
+## 📫 Contato
 
-###
+<div align="center">
 
-<p align="left">📧 Email: cauacontatopro@gmail.com  <br><br>💼 LinkedIn: linkedin.com/in/caua-araujo-teixeira  <br><br>💻 GitHub: github.com/ocauaatdev</p>
+Estou em busca da minha primeira oportunidade profissional como **desenvolvedor Junior / Jovem Aprendiz**.
+Vamos conversar? 🚀
 
-###
+<a href="https://linkedin.com/in/caua-araujo-teixeira">
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0D1117" />
+</a>
+<a href="mailto:cauacontatopro@gmail.com">
+  <img src="https://img.shields.io/badge/cauacontatopro%40gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0D1117" />
+</a>
+<a href="https://github.com/ocauaatdev">
+  <img src="https://img.shields.io/badge/ocauaatdev-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" />
+</a>
 
-<div align="left">
-  <a href="edin.com/in/caua-araujo-teixeira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="cauacontatopro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
-###
-
-<p align="center">Sempre aberto a networking, colaboração e novos desafios.</p>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:0D1F0D,100:000000" width="100%"/>
